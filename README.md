@@ -1,8 +1,8 @@
-# testeInvolves
+# CSV Explorer 
 ===================
 Teste Java para aplicação em processo seletivo da empresa Involves.
 
-# Execução:
+# Como executar?
 
 1.
 2.
