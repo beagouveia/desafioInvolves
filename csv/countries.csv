@@ -1,0 +1,245 @@
+Rank,Country,Population,Date, world population
+0,World,"7,13,50,00,000","January 4, 2014",100%
+1,China,"1,36,20,10,000","January 4, 2014",19.10%
+2,India,"1,23,85,70,000","January 4, 2014",17.40%
+3,United States,"31,74,00,000","January 4, 2014",4.45%
+4,Indonesia,"24,98,66,000","July 1, 2013",3.50%
+5,Brazil,"20,10,32,714","July 1, 2013",2.82%
+6,Pakistan,"18,52,56,000","January 4, 2014",2.60%
+7,Nigeria,"17,36,15,000","July 1, 2013",2.43%
+8,Bangladesh,"15,25,18,015","July 16, 2012",2.14%
+9,Russia,"14,36,00,000","November 1, 2013",2.01%
+10,Japan,"12,72,70,000","December 1, 2013",1.78%
+11,Mexico,"11,83,95,054","July 1, 2013",1.66%
+12,Philippines,"9,89,15,000","January 4, 2014",1.39%
+13,Vietnam,"9,03,88,000","November 1, 2013",1.27%
+14,Ethiopia,"8,66,13,986","July 1, 2013",1.21%
+15,Egypt,"8,36,61,000","January 1, 2013",1.17%
+16,Germany,"8,05,86,000","June 30, 2013",1.13%
+17,Iran,"7,71,12,000","January 4, 2014",1.08%
+18,Turkey,"7,56,27,384","December 31, 2012",1.06%
+19,Democratic Republic of the Congo,"6,75,14,000","July 1, 2013",0.95%
+20,Thailand,"6,59,26,261","September 1, 2010",0.92%
+21,France,"6,58,34,000","November 1, 2013",0.92%
+22,United Kingdom,"6,37,05,000","July 1, 2012",0.89%
+23,Italy,"5,99,01,141","July 31, 2013",0.84%
+24,Burma,"5,32,59,000","July 1, 2013",0.75%
+25,South Africa,"5,29,81,991","July 1, 2013",0.74%
+26,South Korea,"5,02,19,669","July 1, 2013",0.70%
+27,Colombia,"4,74,01,000","January 4, 2014",0.66%
+28,Spain,"4,67,04,314","January 1, 2013",0.65%
+29,Ukraine,"4,54,47,010","November 1, 2013",0.64%
+30,Tanzania,"4,49,28,923","August 26, 2012",0.63%
+31,Kenya,"4,43,54,000","July 1, 2013",0.62%
+32,Argentina,"4,01,17,096","October 27, 2010",0.56%
+33,Algeria,"3,87,00,000","January 1, 2014",0.54%
+34,Poland,"3,85,02,396","June 30, 2013",0.37%
+35,Sudan,"3,79,64,000","July 1, 2013",0.53%
+36,Uganda,"3,53,57,000","July 1, 2013",0.50%
+37,Canada,"3,52,95,770","October 1, 2013",0.49%
+38,Iraq,"3,40,35,000","July 1, 2012",0.48%
+39,Morocco,"3,31,32,100","January 4, 2014",0.46%
+40,Peru,"3,04,75,144","June 30, 2013",0.43%
+41,Uzbekistan,"3,01,83,400","July 1, 2013",0.42%
+42,Saudi Arabia,"2,99,94,272","July 1, 2013",0.42%
+43,Malaysia,"2,99,50,000","January 4, 2014",0.42%
+44,Venezuela,"2,89,46,101","October 30, 2011",0.41%
+45,Nepal,"2,64,94,504","June 22, 2011",0.37%
+46,Afghanistan,"2,55,00,100","January 1, 2013",0.36%
+47,Yemen,"2,52,35,000","July 1, 2013",0.35%
+48,North Korea,"2,48,95,000","July 1, 2013",0.35%
+49,Ghana,"2,46,58,823","September 26, 2010",0.35%
+50,Mozambique,"2,37,00,715","July 1, 2012",0.33%
+51,Taiwan,"2,33,67,320","November 30, 2013",0.33%
+52,Australia,"2,33,35,808","January 4, 2014",0.33%
+53,Ivory Coast,"2,32,02,000","July 1, 2012",0.33%
+54,Syria,"2,18,98,000","July 1, 2013",0.31%
+55,Madagascar,"2,12,63,403","July 1, 2012",0.30%
+56,Angola,"2,06,09,294","July 1, 2012",0.29%
+57,Cameroon,"2,03,86,799","July 1, 2012",0.29%
+58,Sri Lanka,"2,02,77,597","March 21, 2012",0.28%
+59,Romania,"2,01,21,641","October 20, 2011",0.28%
+60,Burkina Faso,"1,73,22,796","July 1, 2013",0.24%
+61,Niger,"1,71,29,076","December 10, 2012",0.24%
+62,Kazakhstan,"1,70,99,000","October 1, 2013",0.24%
+63,Netherlands,"1,68,32,700","January 4, 2014",0.24%
+64,Chile,"1,66,34,603","April 9, 2012",0.23%
+65,Malawi,"1,63,63,000","July 1, 2013",0.23%
+66,Ecuador,"1,56,49,100","January 4, 2014",0.22%
+67,Guatemala,"1,54,38,384","June 30, 2013",0.22%
+68,Mali,"1,53,02,000","July 1, 2013",0.21%
+69,Cambodia,"1,51,35,000","July 1, 2013",0.21%
+70,Senegal,"1,35,67,338","July 1, 2013",0.19%
+71,Zambia,"1,30,92,666","October 16, 2010",0.18%
+72,Zimbabwe,"1,29,73,808","August 17, 2012",0.18%
+73,Chad,"1,28,25,000","July 1, 2013",0.18%
+74,South Sudan,"1,12,96,000","July 1, 2013",0.16%
+75,Belgium,"1,11,80,320","November 1, 2013",0.16%
+76,Cuba,"1,11,67,325","September 15, 2012",0.16%
+77,Tunisia,"1,08,33,431","January 1, 2013",0.15%
+78,Guinea,"1,08,24,200","July 1, 2010",0.15%
+79,Greece,"1,08,15,197","May 24, 2011",0.15%
+80,Portugal,"1,04,87,289","December 31, 2012",0.15%
+81,Rwanda,"1,05,37,222","August 15, 2012",0.15%
+82,Czech Republic,"1,05,13,800","September 30, 2013",0.15%
+83,Somalia,"1,04,96,000","July 1, 2013",0.15%
+84,Haiti,"1,04,13,211","July 1, 2012",0.15%
+85,Benin,"1,03,23,000","July 1, 2013",0.14%
+86,Burundi,"1,01,63,000","July 1, 2013",0.14%
+87,Bolivia,"1,00,27,254","November 21, 2012",0.14%
+88,Hungary,"99,06,000","January 1, 2013",0.14%
+89,Sweden,"96,33,490","October 31, 2013",0.13%
+90,Belarus,"94,67,200","November 1, 2013",0.13%
+91,Dominican Republic,"94,45,281","December 1, 2010",0.13%
+92,Azerbaijan,"92,35,100","January 1, 2012",0.13%
+93,Honduras,"85,55,072","July 1, 2013",0.12%
+94,Austria,"85,01,502","October 1, 2013",0.12%
+95,United Arab Emirates,"82,64,070","July 1, 2010",0.12%
+96,Israel,"81,32,000","December 29, 2013",0.11%
+97,Switzerland,"81,12,200","September 30, 2013",0.11%
+98,Tajikistan,"80,00,000","April 1, 2013",0.11%
+99,Bulgaria,"72,82,041","December 31, 2012",0.10%
+100,Hong Kong (China),"71,84,000","July 1, 2013",0.10%
+101,Serbia,"71,81,505","January 1, 2013",0.10%
+102,Papua New Guinea,"70,59,653","July 10, 2011",0.10%
+103,Paraguay,"67,83,374",2013,0.09%
+104,Laos,"65,80,800","July 1, 2013",0.09%
+105,Jordan,"65,31,200","January 4, 2014",0.09%
+106,El Salvador,"63,40,000","July 1, 2013",0.09%
+107,Eritrea,"63,33,000","July 1, 2013",0.09%
+108,Libya,"62,02,000","July 1, 2013",0.09%
+109,Togo,"61,91,155","November 6, 2010",0.09%
+110,Sierra Leone,"61,90,280",2013,0.09%
+111,Nicaragua,"60,71,045","June 30, 2012",0.09%
+112,Kyrgyzstan,"57,47,000","October 1, 2013",0.08%
+113,Denmark,"56,23,501","October 1, 2013",0.08%
+114,Finland,"54,49,657","November 30, 2013",0.08%
+115,Slovakia,"54,12,008","June 30, 2013",0.08%
+116,Singapore,"53,99,200","July 1, 2013",0.08%
+117,Turkmenistan,"52,40,000","July 1, 2013",0.07%
+118,Norway,"50,96,300","October 1, 2013",0.07%
+119,Lebanon,"48,22,000","July 1, 2013",0.07%
+120,Costa Rica,"46,67,096","July 1, 2013",0.07%
+121,Central African Republic,"46,16,000","July 1, 2013",0.07%
+122,Ireland,"45,93,100","April 1, 2013",0.06%
+123,Georgia,"44,83,800","January 1, 2013",0.06%
+124,New Zealand,"45,04,860","January 4, 2014",0.06%
+125,Republic of the Congo,"44,48,000","July 1, 2013",0.06%
+126,Palestine,"44,20,549","July 1, 2013",0.06%
+127,Liberia,"42,94,000","July 1, 2013",0.06%
+128,Croatia,"42,90,612","March 31, 2011",0.06%
+129,Oman,"39,29,000","September 28, 2013",0.05%
+130,Bosnia and Herzegovina,"37,91,622","October 15, 2013",0.05%
+131,Puerto Rico,"36,15,086","July 1, 2013",0.05%
+132,Kuwait,"35,82,054","December 31, 2010",0.05%
+133,Moldov,"35,59,500","January 1, 2013",0.05%
+134,Mauritania,"34,61,041","July 1, 2013",0.05%
+135,Panama,"34,05,813","May 16, 2010",0.05%
+136,Uruguay,"32,86,314","September 30, 2011",0.05%
+137,Armenia,"30,24,100","July 1, 2012",0.04%
+138,Lithuania,"29,45,951","December 1, 2013",0.04%
+139,Albania,"28,21,977","October 1, 2011",0.04%
+140,Mongolia,"27,54,685","November 11, 2010",0.04%
+141,Jamaica,"27,11,476","December 31, 2012",0.04%
+142,Namibia,"21,13,077","August 28, 2011",0.03%
+143,Lesotho,"20,74,000","July 1, 2013",0.03%
+144,Qatar,"20,68,050","November 30, 2013",0.03%
+145,Macedonia,"20,62,294","December 31, 2012",0.03%
+146,Slovenia,"20,61,171","January 4, 2014",0.03%
+147,Botswana,"20,24,904","August 22, 2011",0.03%
+148,Latvia,"20,08,700","November 1, 2013",0.03%
+149,Gambia,"18,49,000","July 1, 2013",0.03%
+150,Kosovo,"18,15,606","December 31, 2012",0.03%
+151,Guinea-Bissau,"17,04,000","July 1, 2013",0.02%
+152,Gabon,"16,72,000","July 1, 2013",0.02%
+153,Equatorial Guinea,"16,22,000","July 1, 2010",0.02%
+154,Trinidad and Tobago,"13,28,019","January 9, 2011",0.02%
+155,Estonia,"12,86,540","January 1, 2013",0.02%
+156,Mauritius,"12,57,900","July 3, 2011",0.02%
+157,Swaziland,"12,50,000","July 1, 2013",0.02%
+158,Bahrain,"12,34,571","April 27, 2010",0.02%
+159,Timor-Leste,"10,66,409","July 11, 2010",0.02%
+160,Djibouti,"8,73,000","July 1, 2013",0.01%
+161,Cyprus,"8,65,878","December 31, 2012",0.01%
+162,Fiji,"8,58,038","July 1, 2012",0.01%
+163,Reunion (France),"8,21,136","January 1, 2010",0.01%
+164,Guyana,"7,84,894","July 1, 2010",0.01%
+165,Comoros,"7,43,797","July 1, 2013",0.01%
+166,Bhutan,"7,42,610","January 4, 2014",0.01%
+167,Montenegro,"6,20,029","April 1, 2011",0.01%
+168,Macau (China),"5,98,200","September 30, 2013",0.01%
+169,Solomon Islands,"5,81,344","July 1, 2013",0.01%
+170,Western Sahara,"5,67,000","July 1, 2013",0.01%
+171,Luxembourg,"5,37,000","December 31, 2012",0.01%
+172,Suriname,"5,34,189","August 13, 2012",0.01%
+173,Cape Verde,"4,91,875","June 16, 2010",0.01%
+174,Malta,"4,16,055","November 20, 2011",0.01%
+175,Guadeloupe (France),"4,03,355","January 1, 2010",0.01%
+176,Martinique (France),"3,94,173","January 1, 2010",0.01%
+177,Brunei,"3,93,162","June 20, 2011",0.01%
+178,Bahamas,"3,51,461","May 3, 2010",0.00%
+179,Iceland,"3,25,010","October 1, 2013",0.00%
+180,Maldives,"3,17,280","July 1, 2010",0.00%
+181,Belize,"3,12,971","May 12, 2010",0.00%
+182,Barbados,"2,74,200","July 1, 2010",0.00%
+183,French Polynesia (France),"2,68,270","August 22, 2012",0.00%
+184,Vanuatu,"2,64,652","July 1, 2013",0.00%
+185,New Caledonia (France),"2,58,958","July 1, 2013",0.00%
+186,French Guiana (France),"2,29,040","January 1, 2010",0.00%
+187,Mayotte (France),"2,12,600","August 21, 2012",0.00%
+188,Samoa,"1,87,820","November 7, 2011",0.00%
+189,Sao Tom and Principe,"1,87,356","May 13, 2012",0.00%
+190,Saint Lucia,"1,66,526","May 10, 2010",0.00%
+191,Guam (USA),"1,59,358","April 1, 2010",0.00%
+192,Curacao (Netherlands),"1,50,563","March 26, 2011",0.00%
+193,Saint Vincent and the Grenadines,"1,09,000","July 1, 2013",0.00%
+194,Kiribati,"1,06,461","July 1, 2013",0.00%
+195,United States Virgin Islands (USA),"1,06,405","April 1, 2010",0.00%
+196,Grenada,"1,03,328","May 12, 2011",0.00%
+197,Tonga,"1,03,036","November 30, 2011",0.00%
+198,Aruba (Netherlands),"1,01,484","September 29, 2010",0.00%
+199,Federated States of Micronesia,"1,01,351","July 1, 2013",0.00%
+200,Jersey (UK),"97,857","March 27, 2011",0.00%
+201,Seychelles,"90,945","August 26, 2010",0.00%
+202,Antigua and Barbuda,"86,295","May 27, 2011",0.00%
+203,Isle of Man (UK),"84,497","March 27, 2011",0.00%
+204,Andorra,"76,246","July 1, 2012",0.00%
+205,Dominica,"71,293","May 14, 2011",0.00%
+206,Bermuda (UK),"64,237","May 20, 2010",0.00%
+207,Guernsey (UK),"63,085","March 31, 2012",0.00%
+208,Greenland (Denmark),"56,370","January 1, 2013",0.00%
+209,Marshall Islands,"56,086","July 1, 2013",0.00%
+210,American Samoa (USA),"55,519","April 1, 2010",0.00%
+211,Cayman Islands (UK),"55,456","October 10, 2010",0.00%
+212,Saint Kitts and Nevis,"54,000","July 1, 2013",0.00%
+213,Northern Mariana Islands (USA),"53,883","April 1, 2010",0.00%
+214,Faroe Islands (Denmark),"48,159","October 1, 2013",0.00%
+215,Sint Maarten (Netherlands),"37,429","January 1, 2010",0.00%
+216,Saint Martin (France),"36,979","January 1, 2010",0.00%
+217,Liechtenstein,"36,942","June 30, 2013",0.00%
+218,Monaco,"36,136","December 31, 2012",0.00%
+219,San Marino,"32,499","November 30, 2013",0.00%
+220,Turks and Caicos Islands (UK),"31,458","January 25, 2012",0.00%
+221,Gibraltar (UK),"30,001","December 31, 2012",0.00%
+222,British Virgin Islands (UK),"29,537","July 1, 2010",0.00%
+223,Aland Islands (Finland),"28,502","December 31, 2012",0.00%
+224,Caribbean Netherlands (Netherlands),"23,296","January 1, 2013",0.00%
+225,Palau,"20,901","July 1, 2013",0.00%
+226,Cook Islands (NZ),"14,974","December 1, 2011",0.00%
+227,Anguilla (UK),"13,452","May 11, 2011",0.00%
+228,Wallis and Futuna (France),"13,135","July 1, 2013",0.00%
+229,Tuvalu,"11,323","July 1, 2013",0.00%
+230,Nauru,"9,945","October 30, 2011",0.00%
+231,Saint Barthelemy (France),"8,938","January 1, 2010",0.00%
+232,Saint Pierre and Miquelon (France),"6,081","January 1, 2010",0.00%
+233,Montserrat (UK),"4,922","May 12, 2011",0.00%
+234,”Saint Helena, Ascension and Tristan da Cunha (UK)","4,000","July 1, 2013",0.00%
+235,Svalbard and Jan Mayen (Norway),"2,655","September 1, 2012",0.00%
+236,Falkland Islands (UK),"2,563","April 15, 2012",0.00%
+237,Norfolk Island (Australia),"2,302","August 9, 2011",0.00%
+238,Christmas Island (Australia),"2,072","August 9, 2011",0.00%
+239,Niue (NZ),"1,613","September 10, 2011",0.00%
+240,Tokelau (NZ),"1,411","October 18, 2011",0.00%
+241,Vatican City,800,"July 1, 2012",0.00%
+242,Cocos (Keeling) Islands (Australia),550,"August 9, 2011",0.00%
+243,Pitcairn Islands (UK),56,"February 1, 2013",0.00%
