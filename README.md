@@ -1,5 +1,6 @@
 # testeInvolves
-Teste Java para aplicaço em processo seletivo da empresa Involves.
+===================
+Teste Java para aplicação em processo seletivo da empresa Involves.
 
 # Execução:
 
