@@ -4,7 +4,7 @@
 	<groupId>br.com.involves</groupId>
 	<artifactId>testeInvolves</artifactId>
 	<version>0.0.1</version>
-	<build>
+	<build> 
 		<sourceDirectory>src</sourceDirectory>
 		<testSourceDirectory>test</testSourceDirectory>
 		<resources>
