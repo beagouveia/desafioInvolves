@@ -4,6 +4,7 @@
 	<groupId>br.com.involves</groupId>
 	<artifactId>testeInvolves</artifactId>
 	<version>0.0.1</version>
+
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<testSourceDirectory>test</testSourceDirectory>
@@ -31,6 +32,11 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
+					<compilerVersion>1.8</compilerVersion>
+					<compilerArguments>
+						<source>1.8</source>
+						<target>1.8</target>
+					</compilerArguments>
 				</configuration>
 			</plugin>
 		</plugins>
