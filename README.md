@@ -12,7 +12,7 @@
   
 1. Efetue o download do projeto;
 2. Descompactue a pasta baixada;
-3. No terminal de comando, entre na pasta descompactuada e digite o comando: **mvn package** para gerar um arquivo executável;
+3. No terminal de comandos, entre na pasta descompactuada (**cd ../testeInvolves-master**) e digite o comando: **mvn package** para compilar o código fonte do projeto e executar os testes unitários implementados com a ferramenta jUnit;
 4. Entre na pasta '/target' gerada no seu projeto pelo passo 3 (**cd /target**), e digite o comando: **java -jar testeInvolves-0.0.1.jar** para rodar o programa;
 
 Pronto. Agora você pode executar os comandos listados na próxima seção.
