@@ -19,7 +19,7 @@ Pronto. Agora você pode executar os comandos listados na próxima seção.
 
 # Comandos implementados e como utiliza-los
   
-  - **read caminhoDoArquivo** : O programa
-  - **count *** :
-  - **count distinct [propriedade]** :
-  - **filter [propriedade] [valor]** :
+  - **read caminhoDoArquivo :**  O programa
+  - **count * :** :
+  - **count distinct [propriedade] :** 
+  - **filter [propriedade] [valor] :**
