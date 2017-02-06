@@ -2,7 +2,7 @@
 ===================
 
 ## O Programa
-  CSV Explorer é um programa implementado para aplicação no processo seletivo de Desenvolvedor Java da empresa Involves.
+  CSV Explorer é um programa implementado para aplicação no processo seletivo de Desenvolvedor Java da empresa **Involves**.
   
 ## O que ele faz?
   CSV Explorer é um programa de manipulação em arquivos de extensão **.csv**.
@@ -12,8 +12,8 @@
   
 1. Efetue o download do projeto;
 2. Descompactue a pasta baixada;
-3. No terminal de comando, entre na pasta descompactuada e digite o comando: **mvn package** para gerar um executável;
-4. Entre na pasta /target gerada no seu projeto pelo passo 3, e digite o comando: **java -jar testeInvolves-0.0.1.jar** para rodar o programa;
+3. No terminal de comando, entre na pasta descompactuada e digite o comando: **mvn package** para gerar um arquivo executável;
+4. Entre na pasta '/target' gerada no seu projeto pelo passo 3 (**cd /target**), e digite o comando: **java -jar testeInvolves-0.0.1.jar** para rodar o programa;
 
 Pronto. Agora você pode executar os comandos listados na próxima seção.
 
