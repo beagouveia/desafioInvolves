@@ -13,7 +13,6 @@ import java.util.List;
 public class CSVExplorer {
 
 	static final String caminhoCSVDefault = "../resources/cidades.csv";
-
 	private Integer countRegistros;
 	private ArrayList<String[]> registros;
 	private String[] propriedades;
