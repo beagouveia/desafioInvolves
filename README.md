@@ -23,3 +23,4 @@ Pronto. Agora você pode executar os comandos listados na próxima seção.
   - **count * :** Escreve no console a contagem total de registros importados
   - **count distinct [propriedade] :** Escreve no console o total de valores distintos da propriedade (coluna) enviada
   - **filter [propriedade] [valor] :** Escreve no console a linha de cabeçalho e todas as linhas em que a propriedade enviada possua o valor enviado
+ 
