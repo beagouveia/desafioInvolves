@@ -6,19 +6,23 @@ import org.junit.Test;
 
 import br.com.involves.teste.util.CSVExplorer;
 
+/**
+ * Classe utilizada para testar o a manipulação de arquivos CSV
+ */
 public class CSVExplorerTest extends CSVExplorer {
 
-	static final String csvCidades = "csv/cidades.csv";
-	static final String csvCountries = "csv/countries.csv";
+	static final String csvCidades = "resources/cidades.csv";
+	static final String csvCountries = "resources/countries.csv";
 	static final Integer qntRegistrosCidades = 5565;
 	static final Integer qntRegistrosCountries = 244;
+	static final Integer qntDistinctCountries = 244;
 	static final Integer qntRegistrosCountriesPaisBrasil = 1;
 	static final Integer qntRegistrosCidadesUFSC = 293;
 
 	@Test
 	public void testLerArquivoCSV() {
-		lerArquivoCSV(csvCidades);
-		lerArquivoCSV(csvCountries);
+		assertEquals("Arquivo carregado", lerArquivoCSV(csvCidades));
+		assertEquals("Arquivo carregado", lerArquivoCSV(csvCountries));
 	}
 
 	@Test
@@ -32,7 +36,11 @@ public class CSVExplorerTest extends CSVExplorer {
 	@Test
 	public void tesCountDistincts() {
 		lerArquivoCSV(csvCountries);
-		countDistincts("Country");
+		try {
+			assertEquals(qntDistinctCountries, countDistincts("Country"));
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 
 	@Test

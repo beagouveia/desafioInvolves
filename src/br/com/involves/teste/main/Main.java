@@ -12,17 +12,14 @@ public class Main {
 
 	public void run() {
 		Scanner leitor = new Scanner(System.in);
-		ConsoleManager consoleManager = new ConsoleManager(leitor);
+		CommandManager commandManager = new CommandManager();
 		try {
-			while (true) {
-				consoleManager.lerComandos();
+			while (leitor.hasNext()) {
+				System.out.println(commandManager.executarComando(leitor.nextLine()));
 			}
+			leitor.close();
 		} catch (IOException e) {
-			System.out.println("Não foi possível executar o comando. Para ajuda digite 'help'.");
-		} finally {
-			if (leitor != null) {
-				leitor.close();
-			}
+			System.out.println("Não foi possível executar o comando");
 		}
 	}
 }
